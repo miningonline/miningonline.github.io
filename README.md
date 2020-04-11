@@ -7,8 +7,7 @@ At the time of writing, BitCoin and most of these Crypto-Currencies may have cra
 As a webmaster, I do not recommend this, because speed is an important factor when it comes to ranking, slowing down your visitor’s PC is not a good idea. Furthermore, we’ve seen the rise of WordPress hacking involving inserting these cryptocurrency javascript. Personally, I think these scripts work best on simple gaming sites, where visitors tend to stay longer. You will need to have their permission to run these script.
 
 ![CryptoCurrency Mining JavaScript](./images/antivirus-block-bitcoin.jpg)
-
-##  01 – [Crypto-Loot](https://bit.ly/2y5gl1e)
+##  01 – [Crypto-Loot](https://bit.ly/2JWTGXr)
 
 [![Crypto-Loot](./images/crypto-loot-830x493.jpg)](./images/crypto-loot.jpg)
 
